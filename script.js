@@ -16,7 +16,7 @@ if(a == "appmnit" && b == "pwd8985@"){
         userid = document.getElementById("userid").value;
         password = document.getElementById("userpassword").value;
     
-        if(userid == "2023UCP1701" && password == "Kav63673@"){
+        if(userid == "2023UCP1701" && password == "12345"){
             window.alert("Login successfull ! ! !")
             window.location.replace("https://www.mnit.ac.in/");
         }
